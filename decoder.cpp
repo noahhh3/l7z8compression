@@ -1,9 +1,4 @@
-/*
- * Noah Cooley-Cannon
- * lab10
- * cpsc2120-03
- * Dean
- */
+
 
 /* compile with std=c++11 :) */
 #include <iostream>
